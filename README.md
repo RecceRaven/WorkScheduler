@@ -17,7 +17,11 @@ This application features:
 
 ## Screenshots
 
+![Scheduler](https://github.com/RecceRaven/WorkScheduler/assets/149850541/28f45ad2-1b8d-4d85-8956-de320cc29d22)
+
 ## Additional Resources
+
+https://recceraven.github.io/WorkScheduler/
 
 ## Credits and API's used
 
